@@ -1,0 +1,60 @@
+body {
+  background-image: url(/Images/mainbg.jpeg);
+}
+.pictures {
+  border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.item {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: rgb(69, 21, 21);
+  font-size: 25px;
+  text-align: center;
+}
+.description {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: bisque;
+  font-size: 15px;
+  text-align: center;
+}
+.one {
+  background-color: rgba(250, 246, 246, 0.5);
+  border-radius: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+}
+.two {
+  background-color: rgba(250, 246, 246, 0.5);
+  border-radius: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+}
+.three {
+  background-color: rgba(250, 246, 246, 0.5);
+  border-radius: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+}
+.four {
+  background-color: rgba(250, 246, 246, 0.5);
+  border-radius: 25px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 3%;
+}
+.back {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+  color: bisque;
+  font-size: 15px;
+  align-items: center;
+}
